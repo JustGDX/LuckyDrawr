@@ -1,7 +1,10 @@
 # 🎰 LuckyDrawr
 
 **LuckyDrawr** is a simple and fun Lotto Number Generator built for entertainment purposes. Instantly generate random lotto numbers to try your luck — perfect for casual use or adding excitement to your lottery experience!
+---
+Click below to try it live:
 
+👉[Try LuckyDrawr](https://luckydrawr.netlify.app/)
 ---
 
 ## ✨ Features
